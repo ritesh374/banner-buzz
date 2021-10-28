@@ -48,3 +48,6 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Slim - A Fast, Lightweight Template Engine for Ruby
+gem 'slim-rails'
